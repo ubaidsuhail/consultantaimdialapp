@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101248316957",
+    "firebase_url": "https://consultantaimdialapp.firebaseio.com",
+    "project_id": "consultantaimdialapp",
+    "storage_bucket": "consultantaimdialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101248316957:android:2c7193a56b4af91fd978f4",
+        "android_client_info": {
+          "package_name": "com.ubaid.consultantsaimdialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101248316957-met0o7gjjhhv8dmm2f6roshki0ams809.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ubaid.consultantsaimdialapp",
+            "certificate_hash": "d80e2e67772a0abbccf19b634436ea8a3a9e2d43"
+          }
+        },
+        {
+          "client_id": "101248316957-o5qq09r378ip7qt42bn9kdv3uchimtj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqjXhYFr4i4p5SVwjwcc6jDh7dAtGEPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101248316957-o5qq09r378ip7qt42bn9kdv3uchimtj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
