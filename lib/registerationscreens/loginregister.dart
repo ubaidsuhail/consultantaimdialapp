@@ -686,6 +686,8 @@ class _LoginRegisterState extends State<LoginRegister> {
       print("Consultant Password:${loginInfo['consultantpassword']}");
 
 
+
+
       await shPref.SetConsultantInformation(int.parse(loginInfo['consultantid']) , loginInfo['consultantname'] , loginInfo['consultantdateofbirth'] , loginInfo['consultantcellnumber'] , loginInfo['consultantpassword']);
 
       Navigator.pushReplacementNamed(context,'SelectServices');

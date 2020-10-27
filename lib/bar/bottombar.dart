@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:consultantaimdialapp/services/clientservice.dart';
+import 'package:consultantaimdialapp/registerationscreens/updateprofile.dart';
 
 class BottomBar extends StatefulWidget {
   @override
@@ -23,7 +24,7 @@ class _BottomBarState extends State<BottomBar> with SingleTickerProviderStateMix
         controller: tabs,
         children: <Widget>[
           ClientService(),
-          Center(child:Text('Welcome to Close')),
+          UpdateProfile(),
         ],
       ),
 
